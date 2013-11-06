@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jan 11 14:42:57 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=FibonacciSearch.jar
+manifest.mergeall=true
+manifest.mainclass=com.zjhcsoft.algorithm.search.FibonacciSearch
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|demo1>~com/~zjhcsoft/~algorithm/~calculate/;<po|demo1>~com/~zjhcsoft/~algorithm/~congregation/;<po|demo1>~com/~zjhcsoft/~algorithm/~gamble/;<po|demo1>~com/~zjhcsoft/~algorithm/~search/~BinarySearch.class;<po|demo1>~com/~zjhcsoft/~algorithm/~search/~InterpolationSearch.class;<po|demo1>~com/~zjhcsoft/~algorithm/~search/~OrderSearch.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~BubbleSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~InsertSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~MergeSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~RadixSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~SelectSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~ShellSort.class;<po|demo1>~com/~zjhcsoft/~algorithm/~sort/~SortPrint.class;<po|demo1>~com/~zjhcsoft/~algorithm/~tradition/
+includes=
