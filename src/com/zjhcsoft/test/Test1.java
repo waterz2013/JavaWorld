@@ -2,7 +2,6 @@ package com.zjhcsoft.test;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 /**
  * java 方法是按值传递，当入参是对象时，对象引用的变化不会反应到入参对象中，对象内容的变化会反应到入参
  * @author Administrator
@@ -42,11 +41,12 @@ public class Test1 {
 	public static void main(String[] args) {
 //		Test1 test = new Test1();
 //		test.name1();
-		List<String> ipList = new ArrayList<String>();
-		ipList.add("220.181.111.85");
-		ipList.add("204.79.197.200");
-		ipList.add("171.8.167.96");
-		ipList.add("220.181.124.201");
-		System.out.println(ipList.get((int)(Math.random()*(ipList.size()-1))));
+//		List<String> ipList = new ArrayList<String>();
+//		ipList.add("220.181.111.85");
+//		ipList.add("204.79.197.200");
+//		ipList.add("171.8.167.96");
+//		ipList.add("220.181.124.201");
+//		System.out.println(ipList.get((int)(Math.random()*(ipList.size()-1))));
+		System.out.println(1/2);
 	}
 }
