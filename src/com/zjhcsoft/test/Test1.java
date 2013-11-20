@@ -1,5 +1,6 @@
 package com.zjhcsoft.test;
 
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 /**
@@ -47,6 +48,7 @@ public class Test1 {
 //		ipList.add("171.8.167.96");
 //		ipList.add("220.181.124.201");
 //		System.out.println(ipList.get((int)(Math.random()*(ipList.size()-1))));
-		System.out.println(1/2);
+//		System.out.println(1/2);
+		System.out.println(URLEncoder.encode("香港"));
 	}
 }
