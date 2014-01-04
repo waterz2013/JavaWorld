@@ -5,9 +5,9 @@ package com.isandou.www.test;
  * @author Administrator
  *
  */
-public class Test4 {
+public class SpaceTest {
 	public static void main(String[] args) {
-		/*System.out.println("2013-09-09 　07:38:09".replace("　", ""));
+		System.out.println("2013-09-09 　07:38:09".replace("　", ""));
 		System.out.println("2013-09-09  10:00".replace("  ", " "));
 		
 //		System.out.println(("2013-09-09  10:00".replace("　", "")).replace("  "," "));
@@ -16,8 +16,7 @@ public class Test4 {
 		System.out.println("###"+"2013-09-09  10:00".split("[\\s\\p{Zs}]")[2]+"###"); 
 //		System.out.println("###"+"2013-09-09  10:00".replaceAll(" +","")+"###"); 
 		"sss".split("\\s");
-		System.out.println(" ".length());*/
-		System.out.println(System.currentTimeMillis()+2592000000L);
+		System.out.println(" ".length());
 		
 	}
 }

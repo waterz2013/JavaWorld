@@ -11,7 +11,7 @@ import java.util.Map;
  * @author wangtao
  *
  */
-public class Test11 {
+public class ExceptionTest {
 	
 	public static int test() {
 		int i =1;
