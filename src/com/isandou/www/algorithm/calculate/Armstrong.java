@@ -5,6 +5,7 @@ import org.apache.log4j.Logger;
 
 public class Armstrong {
 
+//    s sd
 	static Logger logger = Logger.getLogger(Armstrong.class);
 
 	/**
